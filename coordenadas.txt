@@ -1,0 +1,10 @@
+Santiago andres segura velandia
+
+<?xml version="1.0" standalone="no"?>
+<svg width="800" height="800" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<polygon points="87 12 3 95 45 139 129 63"/>
+<polygon points="89 118 109 97 134 124 115 142"/>
+<polygon points="237 35 257 56 180 129 172 130 124 178 128 180 120 214 44 267 24 247 78 169 111 165 113 167 161 119 157 114 237 35"/>
+<polygon points="148 177 168 155 236 223 215 244"/>
+</svg>
